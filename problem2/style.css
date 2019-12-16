@@ -1,0 +1,72 @@
+*{
+    margin:0px;
+    padding: 0px;;
+}
+#header{
+    height:80px;
+    width:98%;
+    border: 1px solid black;
+    margin:5px;
+}
+
+
+#main-container-area{
+    height: 600px;
+    width: 98%;
+    margin:5px;
+    border: 1px solid black;
+}
+
+
+#top-area{
+    height: 400px;
+    width: 98%;
+    border: 1px solid black;
+    margin: 5px;;
+}
+#left-aside{
+    border: 1px solid black;
+    height: 380px;
+    width: 27%;
+    float: left;
+    margin:5px;
+    overflow: scroll;
+}
+
+#right-aside{
+    border: 1px solid black;
+    height: 380px;
+    width: 27%;
+    float: left;
+    margin:5px;
+}
+
+#center{
+    border: 1px solid black;
+    height: 380px;
+    width: 40%;
+    float: left;
+    margin:5px;
+}
+
+
+#center > iframe{
+    height: 95%;
+    width: 95%;
+    margin: 7px;
+}
+
+
+
+#buttom-area{
+    height: 180px;
+    width: 98%;
+   
+    margin: 5px;;
+}
+#footer{
+    height:80px;
+    width: 98%;
+    border: 1px solid black;
+    margin:5px;
+}
