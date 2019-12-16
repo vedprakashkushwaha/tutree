@@ -61,6 +61,6 @@ app.get("/input", function (req, res) {
 
 app.listen(3000, function () {
 
-    console.log("application started at 127.0.0.1:8000");
+    console.log("application started at 127.0.0.1:3000");
 
 });
